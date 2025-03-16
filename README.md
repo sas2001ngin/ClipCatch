@@ -10,3 +10,6 @@ Personalized Recommendations: Get movie suggestions based on preferences.
 🛠️ Tools Used
 Adobe XD: For UI/UX design and prototyping.
 Illustrator/Photoshop: For creating icons and visual elements (if applicable).
+
+![Screenshot (21)](https://github.com/user-attachments/assets/7f3d2eed-cf4b-41b0-99e3-26f9864d0ae5)
+![Screenshot (26)](https://github.com/user-attachments/assets/57324927-a7a6-4d80-ace0-1a506e9d3989)
